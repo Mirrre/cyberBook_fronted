@@ -6,13 +6,13 @@
     <div class="swiper-wrapper">
       <!-- 每个节点 -->
       <div class="swiper-slide">
-        <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/banner8.png" alt="图片1" />
+        <img src="../../assets/images/banner1.jpg" alt="图片1" />
       </div>
       <div class="swiper-slide">
-        <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/banner9.png" alt="图片2" />
+        <img src="../../assets/images/banner2.jpeg" alt="图片2" />
       </div>
       <div class="swiper-slide">
-        <img src="https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5563/banner7.png" alt="图片3" />
+        <img src="../../assets/images/banner3.jpeg" alt="图片3" />
       </div>
     </div>
 
